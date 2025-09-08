@@ -1,9 +1,9 @@
-# [Group name]
+[Mountain Dew & Code Review]
 
 **Group members:**
-- A
-- B
-- C
+- Arthur Hueg
+- Frederik Fink
+- Nikolaj Jayaswal
 
 **This repository contains:***
 
