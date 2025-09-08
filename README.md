@@ -2,7 +2,7 @@
 
 **Group members:**
 - Arthur Oliver Hueg
-- Frederik Oliverius Fink
+- Frederik Olivarius Fink
 - Nikolaj Jayaswal
 
 **This repository contains:***
