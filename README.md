@@ -1,7 +1,7 @@
 # Mountain Dew & Code Review
 
 **Group members:**
-- Arthur Hueg
+- Arthur Oliver Hueg
 - Frederik Fink
 - Nikolaj Jayaswal
 
