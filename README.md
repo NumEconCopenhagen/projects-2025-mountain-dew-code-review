@@ -2,7 +2,11 @@
 
 **Group members:**
 - Arthur Oliver Hueg
+<<<<<<< HEAD
 - Frederik Olivarius Fink
+=======
+- Frederik Fink
+>>>>>>> bf94fc3b259bd76aafa9165214a9fb5c4eea4eff
 - Nikolaj Jayaswal
 
 **This repository contains:***
