@@ -1,4 +1,4 @@
-# [Mountain Dew & Code Review]
+# Mountain Dew & Code Review
 
 **Group members:**
 - Arthur Hueg
